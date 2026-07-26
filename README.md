@@ -2,12 +2,12 @@
 Complete Tinkercad Arduino simulation using four DC motors, dual L293D drivers, an ultrasonic sensor, and a servo motor for obstacle avoidance.
 
 # Four DC Motors Obstacle Avoidance
-![Uploading image.png…]()
+<img width="849" height="605" alt="image" src="https://github.com/user-attachments/assets/0345f6cf-c9f7-4c6c-9835-905ee5b0262f" />
 
 ## Project Description
 
 This project combines two Arduino simulation tasks into one complete Tinkercad circuit.
-
+https://www.tinkercad.com/things/01vg8PbSwjq-four-dc-motors-obstacle-avoidance?sharecode=N8PVigZq1lJRfg8jPsF2O1gOq7IG02zh_oPJmWeCbdQ
 The first part controls four DC motors using two L293D motor driver ICs.  
 The second part adds an HC-SR04 ultrasonic sensor and an SG90 servo motor for obstacle detection and direction scanning.
 
